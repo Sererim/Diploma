@@ -1,0 +1,10 @@
+tensorflow
+tensorflow_datasets
+flask
+flask-restful
+keras
+matplotlib
+pandas
+pillow
+numpy
+requests
